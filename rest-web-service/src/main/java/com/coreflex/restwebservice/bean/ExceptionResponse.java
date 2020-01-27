@@ -3,7 +3,7 @@ package com.coreflex.restwebservice.bean;
 import java.util.Date;
 
 /**
- * @author Mukunda N
+ * @author Mukunda Nagaraj
  *
  */
 public class ExceptionResponse {
